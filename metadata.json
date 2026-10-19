@@ -1,0 +1,6 @@
+{
+  "name": "SiHadir Dzuhur - Absensi Scan Wajah Siswa",
+  "description": "Sistem absensi sholat Dzuhur siswa terintegrasi berbasis scan wajah untuk Android dan Web Dashboard admin dengan rekap per kelas dan per hari serta penyimpanan di server.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
